@@ -1,0 +1,27 @@
+{
+  "id": 0,
+  "name": {
+    "name": "test",
+    "camel_case_name": "test"
+  },
+  "form": {
+    "name": "",
+    "camel_case_name": ""
+  },
+  "region": "kanto",
+  "games": [
+    {
+      "game": "pokemon_violet_hidden_treasure_of_area_zero",
+      "game_when": "early_game",
+      "shiny": "can_be_shiny"
+    }
+  ],
+  "events": [
+    {
+      "game": "pokemon_scarlet_hidden_treasure_of_area_zero",
+      "shiny": "can_be_shiny",
+      "was_event_available": true
+    }
+  ],
+  "version": 1
+}
