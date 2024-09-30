@@ -1,0 +1,28 @@
+{
+  "id": 2,
+  "name": {
+    "name": "test a mon tapuf",
+    "camel_case_name": "test_a_mon_tapuf"
+  },
+  "form": {
+    "name": "wh a form",
+    "camel_case_name": "wh_a_form"
+  },
+  "region": "kanto",
+  "evolves_from": 0,
+  "games": [
+    {
+      "game": "pokemon_violet_hidden_treasure_of_area_zero",
+      "game_when": "early_game",
+      "shiny": "can_be_shiny"
+    }
+  ],
+  "events": [
+    {
+      "game": "pokemon_scarlet_hidden_treasure_of_area_zero",
+      "shiny": "can_be_shiny",
+      "was_event_available": true
+    }
+  ],
+  "version": 1
+}
