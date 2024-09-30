@@ -1,0 +1,52 @@
+{
+  "id": 1,
+  "name": {
+    "name": "Bulbasaursurs",
+    "camel_case_name": "bulbasaursurs"
+  },
+  "form": {
+    "name": "",
+    "camel_case_name": ""
+  },
+  "region": "kanto",
+  "evolves_from": 0,
+  "games": [
+    {
+      "game": "pokemon_red",
+      "game_when": "early_game",
+      "shiny": "can_be_shiny"
+    },
+    {
+      "game": "pokemon_blue",
+      "game_when": "early_game",
+      "shiny": "can_be_shiny"
+    },
+    {
+      "game": "pokemon_yellow",
+      "game_when": "early_game",
+      "shiny": "can_be_shiny"
+    },
+    {
+      "game": "pokemon_gold",
+      "game_when": "early_game",
+      "shiny": "can_be_shiny"
+    },
+    {
+      "game": "pokemon_silver",
+      "game_when": "early_game",
+      "shiny": "can_be_shiny"
+    },
+    {
+      "game": "pokemon_crystal",
+      "game_when": "early_game",
+      "shiny": "can_be_shiny"
+    },
+    {
+      "game": "pokemon_ruby",
+      "game_when": "early_game",
+      "shiny": "can_be_shiny"
+    }
+  ],
+  "events": [],
+  "version": 1
+}
