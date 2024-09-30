@@ -1,0 +1,39 @@
+{
+  "id": 1,
+  "name": {
+    "name": "bulbtest",
+    "camel_case_name": "bulbtest"
+  },
+  "form": {
+    "name": "",
+    "camel_case_name": ""
+  },
+  "region": "kanto",
+  "evolves_from": 0,
+  "games": [
+    {
+      "game": "pokemon_red",
+      "game_when": "early_game",
+      "shiny": "can_be_shiny"
+    },
+    {
+      "game": "pokemon_blue",
+      "game_when": "early_game",
+      "shiny": "can_be_shiny"
+    },
+    {
+      "game": "pokemon_yellow",
+      "game_when": "early_game",
+      "shiny": "can_be_shiny"
+    }
+  ],
+  "events": [],
+  "version": 1,
+  "contributors": {
+    "original": "catsonluna",
+    "current": "catsonluna",
+    "all": [
+      "catsonluna"
+    ]
+  }
+}
